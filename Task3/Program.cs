@@ -5,45 +5,43 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using static System.Console;
+using System.Threading;
 
 namespace Task3
 {
     class Program
     {
         static void Main(string[] args)
-        {
-            var list = new List<BigInteger>();
-            
-            for (int i = 0; i < 5000; i++)
-            {
-                list.Add(i+1);
-            }
-            var arr = Enumerable.Range(0, 10000000).ToList();
+        {           
+            var list = Enumerable.Range(0, 5000).ToList();
+            var result = new List<BigInteger>();
 
-            // var sw = Stopwatch.StartNew();
-            // for (int i = 0; i < list.Count; i++)
-            // {
-            //     list[i] = list[i].Factorial();
-            // }
-            // sw.Stop();
-            // Console.WriteLine($"выполнялся:{sw.ElapsedMilliseconds}ms");
             var sw = Stopwatch.StartNew();
-
-            var r = Parallel.ForEach(arr, x=> 
+            for (int i = 0; i < list.Count; i++)
             {
-                x *= 2;
-            });
-
-
-            // list.AsParallel().ForAll(x = x => ref x = ref 1);
+                result.Add(Factorial(i));
+            }
             sw.Stop();
-            Console.WriteLine($"выполнялся:{sw.ElapsedMilliseconds}ms");
+            
+            Console.WriteLine($"выполнялся:{sw.ElapsedMilliseconds}ms, кол-во обработанных элементов:{result.Count}");
+            
+            result.Clear();
+            
+            /////////////////////////////////////////////////////////////
+            
+            var sw2 = Stopwatch.StartNew();
+            Parallel.ForEach(list, x => 
+            {
+                result.Add(Factorial(x));
+            });
+            sw2.Stop();
 
+            Console.WriteLine($"выполнялся:{sw2.ElapsedMilliseconds}ms, кол-во обработанных элементов:{result.Count}");
         }
 
-        static BigInteger Factorial(this BigInteger number)
+        static BigInteger Factorial(int number)
         {
-            BigInteger fact = 1;
+            var fact = new BigInteger(1);
             for (var i = 1; i <= number; i++)
             {
                 fact *= i;
@@ -51,10 +49,5 @@ namespace Task3
 
             return fact;
         }
-    }
-
-    class Name
-    {
-        
     }
 }

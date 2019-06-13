@@ -9,3 +9,14 @@ D:\YandexDisk\Учеба\Параллельное программировани
 D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task3\bin\Debug\netcoreapp2.2\Task3.pdb
 D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task3\obj\Debug\netcoreapp2.2\Task3.dll
 D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task3\obj\Debug\netcoreapp2.2\Task3.pdb
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Debug\netcoreapp2.2\Task3.csprojAssemblyReference.cache
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Debug\netcoreapp2.2\Task3.csproj.CoreCompileInputs.cache
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Debug\netcoreapp2.2\Task3.AssemblyInfoInputs.cache
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Debug\netcoreapp2.2\Task3.AssemblyInfo.cs
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Debug\netcoreapp2.2\Task3.dll
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Debug\netcoreapp2.2\Task3.pdb
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Debug\netcoreapp2.2\Task3.deps.json
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Debug\netcoreapp2.2\Task3.runtimeconfig.json
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Debug\netcoreapp2.2\Task3.runtimeconfig.dev.json
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Debug\netcoreapp2.2\Task3.dll
+D:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Debug\netcoreapp2.2\Task3.pdb

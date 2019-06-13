@@ -1,0 +1,11 @@
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Release\netcoreapp2.2\Task3.deps.json
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Release\netcoreapp2.2\Task3.runtimeconfig.json
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Release\netcoreapp2.2\Task3.runtimeconfig.dev.json
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Release\netcoreapp2.2\Task3.dll
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\bin\Release\netcoreapp2.2\Task3.pdb
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Release\netcoreapp2.2\Task3.csprojAssemblyReference.cache
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Release\netcoreapp2.2\Task3.csproj.CoreCompileInputs.cache
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Release\netcoreapp2.2\Task3.AssemblyInfoInputs.cache
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Release\netcoreapp2.2\Task3.AssemblyInfo.cs
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Release\netcoreapp2.2\Task3.dll
+d:\Документы\Учеба\Параллельное программирование\Tasks\Task3\obj\Release\netcoreapp2.2\Task3.pdb

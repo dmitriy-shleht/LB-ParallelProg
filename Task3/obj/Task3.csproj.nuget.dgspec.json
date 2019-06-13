@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task3\\Task3.csproj": {}
+    "d:\\Документы\\Учеба\\Параллельное программирование\\Tasks\\Task3\\Task3.csproj": {}
   },
   "projects": {
-    "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task3\\Task3.csproj": {
+    "d:\\Документы\\Учеба\\Параллельное программирование\\Tasks\\Task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task3\\Task3.csproj",
+        "projectUniqueName": "d:\\Документы\\Учеба\\Параллельное программирование\\Tasks\\Task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task3\\Task3.csproj",
+        "projectPath": "d:\\Документы\\Учеба\\Параллельное программирование\\Tasks\\Task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\work-des\\.nuget\\packages\\",
-        "outputPath": "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task3\\obj\\",
+        "outputPath": "d:\\Документы\\Учеба\\Параллельное программирование\\Tasks\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
