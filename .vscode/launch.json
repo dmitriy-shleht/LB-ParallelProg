@@ -1,0 +1,49 @@
+{
+   "version": "0.2.0",
+   "configurations": [
+        {
+            "name": "Task1",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_task1",
+            "program": "${workspaceFolder}/Task1/bin/Debug/netcoreapp2.2/Task1.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Task1",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Task2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_task2",
+            "program": "${workspaceFolder}/Task2/bin/Debug/netcoreapp2.2/Task2.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Task2",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Task3",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_task3",
+            "program": "${workspaceFolder}/Task3/bin/Debug/netcoreapp2.2/Task3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Task3",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Task4",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build_task4",
+            "program": "${workspaceFolder}/Task4/bin/Debug/netcoreapp2.2/Task4.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/Task4",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        }
+    ]
+}

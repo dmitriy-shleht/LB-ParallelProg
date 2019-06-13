@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task2\\Task2.csproj": {}
+  },
+  "projects": {
+    "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task2\\Task2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task2\\Task2.csproj",
+        "projectName": "Task2",
+        "projectPath": "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task2\\Task2.csproj",
+        "packagesPath": "C:\\Users\\work-des\\.nuget\\packages\\",
+        "outputPath": "D:\\YandexDisk\\Учеба\\Параллельное программирование\\Tasks\\Task2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\work-des\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

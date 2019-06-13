@@ -1,0 +1,11 @@
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\obj\Debug\netcoreapp2.2\Task4.csprojAssemblyReference.cache
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\obj\Debug\netcoreapp2.2\Task4.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\obj\Debug\netcoreapp2.2\Task4.AssemblyInfoInputs.cache
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\obj\Debug\netcoreapp2.2\Task4.AssemblyInfo.cs
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\bin\Debug\netcoreapp2.2\Task4.deps.json
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\bin\Debug\netcoreapp2.2\Task4.runtimeconfig.json
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\bin\Debug\netcoreapp2.2\Task4.runtimeconfig.dev.json
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\bin\Debug\netcoreapp2.2\Task4.dll
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\bin\Debug\netcoreapp2.2\Task4.pdb
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\obj\Debug\netcoreapp2.2\Task4.dll
+D:\YandexDisk\Учеба\Параллельное программирование\Tasks\Task4\obj\Debug\netcoreapp2.2\Task4.pdb

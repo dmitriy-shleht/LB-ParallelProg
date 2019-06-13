@@ -1,0 +1,45 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build_task1",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Task1/Task1.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "build_task2",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Task2/Task2.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "build_task3",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Task3/Task3.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        },
+        {
+            "label": "build_task4",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Task4/Task4.csproj"
+            ],
+            "problemMatcher": "$tsc"
+        }
+    ]
+}
